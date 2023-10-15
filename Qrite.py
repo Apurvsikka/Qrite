@@ -52,7 +52,7 @@ def generate_qrcode():
                 # 
                 qr.make(fit = True)
                 # the name for the QRCode
-                name = qrcode_name + '.png'
+                name = 'Desktop/Qrite_captures'qrcode_name + '.png'
                 # making the QR code
                 qrcode_image = qr.make_image(fill_color = 'black', back_color = 'white')
                 # saving the QR code
