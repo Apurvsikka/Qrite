@@ -10,8 +10,9 @@ cd dist
 ls
 cd 
 cp Qrite/Qrite-v1/Qrite/dist/Qrite  Desktop
- cp Qrite/Qrite-v1/Qrite/README.md Desktop
-
+cp Qrite/Qrite-v1/Qrite/README.md Desktop
+cd Desktop
+mkdir Qrite_captures
 echo ""
 echo ""
 echo 'Qrite installed successfully, refer to the README.md for usage instructions and post-installation steps.'
