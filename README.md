@@ -8,7 +8,7 @@ a simple qr code reader and generator using python
 
 ```
   cd Downloads
-  tar -xf Qrite-0.1.tar.gz
+  tar -xf Qrite-1.0.0.tar.gz
 ```
 
 <li>open the Downloads/Qrite-main</li>
