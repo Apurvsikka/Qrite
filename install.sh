@@ -8,4 +8,5 @@ cd Qrite
 pyinstaller --onefile Qrite.py
 cd dist
 ls
+cp Qrite  /Desktop
 echo 'Qrite installed successfully, refer to the README.md for usage instructions and post-installation steps.'
